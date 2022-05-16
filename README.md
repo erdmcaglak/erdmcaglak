@@ -82,7 +82,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdmcaglak&hide_border=true&layout=compact&bg_color=#292D3E" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdmcaglak&hide_border=true&layout=compact&bg_color=282A36&text_color=fff" align="center" /></div>  
 
 <br/>  
 
