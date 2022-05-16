@@ -8,6 +8,8 @@
   
 
 - 📫 How to reach me erdem.caglak@gmail.com  
+
+<br/>
  
 ## My Skill Set  
 
@@ -52,7 +54,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 </div>
 
-
+<br/>
 
 
 ## Connect with me  
@@ -68,7 +70,7 @@
 </a>  
 </div>  
   
-
+<br/>
 
 
 ## Github Stats  
